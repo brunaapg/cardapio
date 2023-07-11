@@ -1,0 +1,28 @@
+body {
+    font-family:sans-serif;
+    color:black;
+    width: 700px;
+    margin: auto;
+    background: url(fundo-pizza.jpg);
+}
+
+p {
+    font-size:large;
+}
+
+.logo {
+    background-image: url(background-pizza.jpg);
+    background-size: cover;
+    background-position: left bottom;
+    padding: 50px 40px;
+    color:aliceblue;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
